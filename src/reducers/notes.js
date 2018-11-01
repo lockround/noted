@@ -15,6 +15,10 @@ const initialState =
     4: {
       title: 'A Picture of Prince',
       body: '![Prince](/prince-1.jpg)'
+    },
+    5: {
+      title: 'Shubham Tiwari',
+      body: 'Web developer.'
     }
   };
 
